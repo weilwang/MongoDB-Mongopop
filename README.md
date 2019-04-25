@@ -1,4 +1,6 @@
 # https://github.com/am-MongoDB/MongoDB-Mongopop
+# http://info-mongodb-com.s3.amazonaws.com/_com_assets/collateral/modern_app_stack_ebook_rgb.pdf
+
 # MongoPop
 
 Wednesday, 22 February 2017.
